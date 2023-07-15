@@ -12,7 +12,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: green;
+    background: url(/assets/img/img.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .wrapper form {
