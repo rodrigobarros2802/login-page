@@ -71,6 +71,7 @@ body {
 .wrapper .remember-forgot {
     display: flex;
     justify-content: space-between;
+    margin: 15px 0;
 }
 
 .remember-forgot input {
@@ -84,4 +85,17 @@ body {
 
 .remember-forgot a:hover {
     text-decoration: underline;
+}
+
+.wrapper .btn {
+    width: 100%;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    color: #333;
+    font-weight: 700;
+    font-size: 16px;
+    border: 2px solid rgba(0, 0, 0, .2);
+    cursor: pointer;
 }
