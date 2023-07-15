@@ -21,6 +21,7 @@ body {
     align-items: center;
     width: 420px;
     background: purple;
+    border-radius: 10px;
 }
 
 .wrapper form h1 {
