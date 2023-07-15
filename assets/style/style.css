@@ -98,4 +98,26 @@ body {
     font-size: 16px;
     border: 2px solid rgba(0, 0, 0, .2);
     cursor: pointer;
+    background: #fff;
+}
+
+.wrapper .register {
+    text-align: center;
+    margin: 20px;
+}
+
+.register p {
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.register a {
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+}
+
+.register a:hover {
+    text-decoration: underline;
 }
