@@ -8,9 +8,17 @@
 }
 
 body {
-    position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
     background: green;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 420px;
+    min-height: 100vh;
+    background: pink;
 }
