@@ -22,40 +22,25 @@
 <h3 align="center"></h3>
 
 <h1 align="center">:hammer_and_wrench: Tecnologias</h1>
-<h3 align="center"></h3>
-<h3 align="center"></h3>
+<h3 align="center">HTML5</h3>
+<h3 align="center">CSS3</h3>
 <h3 align="center"></h3>
 
 <h1 align="center">:dart: Objetivo</h1>
 <h3 align="center"></h3>
 
 <h1 align="center">:open_book: Aprendizado</h1>
-<h3 align="center"></h3>
+<h3 align="center">Nesse projeto tive como aprendizado grandes conceitos em CSS e um deles foi a propriedade "backdrop-filter" causando essa transparência embaçada por trás do formulário.</h3>
 
 <div align="center">
-<img align="center" src="">
+<img align="center" src="assets/img/aprendizado.png">
 </div>
 
 <h1 align="center">:camera: Imagens do Projeto</h1>
 
 <h3>Imagem 1</h3>
 <div align="center">
-<img align="center" src="">
-</div>
-
-<h3>Imagem 2</h3>
-<div align="center">
-<img align="center" src="">
-</div>
-
-<h3>Imagem 3</h3>
-<div align="center">
-<img align="center" src="">
-</div>
-
-<h3>Imagem 4</h3>
-<div align="center">
-<img align="center" src="">
+<img align="center" src="assets/img/imagem-projeto.png">
 </div>
 
 <h1 align="center">Responsividade :iphone: :computer: :desktop_computer:</h1>
